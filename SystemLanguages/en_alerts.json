@@ -1,0 +1,5 @@
+{
+  "TEST": "Hello World!",
+  "GREET_&NAME": "Hello there {0}. I am the faithfull SECT BOT, I hope to serve you well my lord.",
+  "DJ_PERMISSION_&DJROLENAME": "You need the role {0} to acces this command."
+}

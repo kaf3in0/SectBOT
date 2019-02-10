@@ -1,0 +1,5 @@
+{
+  "TEST": "Salut Lume!",
+  "GREET_&NAME": "Salutare {0}. Eu sunt loialul SECT BOT, sper sa te slujesc cum se cuvine !",
+  "DJ_PERMISSION_&DJROLENAME" :  "Ai nevoie de rolul {0} pentru a accesa comanda."
+}
